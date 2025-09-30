@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Playwright",
+			"path": "../.github/workflows/Playwright"
+		}
+	],
+	"settings": {}
+}

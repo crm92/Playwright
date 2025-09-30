@@ -10,3 +10,4 @@ test('test', async ({ page }) => {
   await page.getByRole('button', { name: 'Open Menu' }).click();
   await page.locator('[data-test="logout-sidebar-link"]').click();
 });
+
